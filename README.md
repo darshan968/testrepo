@@ -1,3 +1,2 @@
 # testrepo
-# test statement
-A test Repository
+A test Repo
